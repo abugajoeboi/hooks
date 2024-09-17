@@ -1,0 +1,22 @@
+*{
+    box-shadow: none;
+    margin: 0px;
+    padding: 0%;
+    border-radius: 0%;
+}
+
+/* .postcontainer{
+    width: 100%;
+    background-color: aqua;
+    box-shadow: none;
+}
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    box-shadow: none;
+    
+}
+.cardbody{
+    width: 30%;
+    box-shadow: none; */
+/* } */
